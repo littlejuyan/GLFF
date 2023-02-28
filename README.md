@@ -1,6 +1,9 @@
 # GLFF
 GLFF: Global and Local Feature Fusion for Face Forgery Detection
 
-Will public the code and dataset link for our paper soon!
+Please fill out this form to get the access of our dataset:
+[Form](https://docs.google.com/forms/d/1STdUMSbrG-f9lWcgSEpZpi13ntg-aznPJqUFGdeTP6w/viewform?edit_requested=true)
+
+Will public the code for our paper soon!
 
 
