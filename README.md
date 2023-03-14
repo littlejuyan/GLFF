@@ -2,7 +2,8 @@
 ![Teaser](https://github.com/littlejuyan/GLFF/blob/main/teaser3.png)
 
 ### DF^3 Dataset
-#### Our DF^3 dataset is a large-scale and highly-diverse face forgery dataset by considering 6 state-of-the-art generation models and 5 post-processing operations to approach the real-world applications. Please fill out this form to get the access of our dataset: [Form](https://docs.google.com/forms/d/1STdUMSbrG-f9lWcgSEpZpi13ntg-aznPJqUFGdeTP6w/viewform?edit_requested=true)
+
+**Our DF^3 dataset is a large-scale and highly-diverse face forgery dataset by considering 6 state-of-the-art generation models and 5 post-processing operations to approach the real-world applications. Please fill out this form to get the access of our dataset: [Form](https://docs.google.com/forms/d/1STdUMSbrG-f9lWcgSEpZpi13ntg-aznPJqUFGdeTP6w/viewform?edit_requested=true)**
 
 ![DF^3 Dataset](https://github.com/littlejuyan/GLFF/blob/main/ourdataset.png)
 
