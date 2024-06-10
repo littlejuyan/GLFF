@@ -5,14 +5,13 @@
 
 **Our DF^3 dataset is a large-scale and highly-diverse face forgery dataset by considering 6 state-of-the-art generation models and 5 post-processing operations to approach the real-world applications. Please fill out this form to get the access of our dataset: [Form](https://docs.google.com/forms/d/1STdUMSbrG-f9lWcgSEpZpi13ntg-aznPJqUFGdeTP6w/viewform?edit_requested=true)**
 
-#![DF^3 Dataset](https://github.com/littlejuyan/GLFF/blob/main/ourdataset.png)
 
 
 ### GLFF Detection Method
 
 
 ## Dataset
-Prepare your training and evaluation dataset according to ![this repo](https://github.com/peterwang512/CNNDetection) and ![this repo](https://github.com/littlejuyan/FusingGlobalandLocal)
+Prepare your training and evaluation dataset according to [this repo](https://github.com/peterwang512/CNNDetection) and [this repo](https://github.com/littlejuyan/FusingGlobalandLocal)
 
 
 ## Training
@@ -21,7 +20,6 @@ We provide an example script to train our model by running `bash train.sh`
 ## Testing
 We provide an example script to test our model by running `bash test.sh`. 
 
-#![GLFF Framework](https://github.com/littlejuyan/GLFF/blob/main/framework1.png)
 
 ### Acknowledgments
 - This repository borrows partially from [CNNDetection](https://github.com/peterwang512/CNNDetection), [BeyondtheSpectrum](https://github.com/SSAW14/BeyondtheSpectrum), [Nodown](https://github.com/grip-unina/GANimageDetection), [FusingGlobalandLocal](https://github.com/littlejuyan/FusingGlobalandLocal).
